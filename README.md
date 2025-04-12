@@ -1,4 +1,4 @@
-🏥 Complete Health Assessment
+# 🏥 Complete Health Assessment
 
 A **simple web-based health assessment tool** that calculates a health score based on user responses to a set of health-related questions. It also provides **instant feedback** and suggestions for improvement.
 
@@ -33,5 +33,4 @@ A **simple web-based health assessment tool** that calculates a health score bas
 
 ---
 
-## 📂 Project Structure
 
